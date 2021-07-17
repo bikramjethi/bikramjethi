@@ -3,6 +3,9 @@
 - 🌱 I’m currently trying to diversify my skillset in technology and trying to learn stuff that can further enhance my tech profile.
 - 💞️ I have worked on : 
     - HTML/CSS/Javascript  
+    - React JS, styled-components
+    - NextJS, Immutable JS
+    - 
 - 📫 How to reach me ...
 
 <!---
