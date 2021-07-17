@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @bikramjethi
 - 👀 I’m interested into developing some really cool, interactive experiences that make you say woww!!
 - 🌱 I’m currently trying to diversify my skillset in technology and trying to learn stuff that can further enhance my tech profile.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I have worked on : 
+    - HTML/CSS/Javascript  
 - 📫 How to reach me ...
 
 <!---
