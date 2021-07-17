@@ -5,8 +5,8 @@
     - HTML/CSS/Javascript  
     - React JS, styled-components
     - NextJS, Immutable JS
-    - 
 - 📫 How to reach me ...
+    - Reach out to me @bikramjethi@gmail.com
 
 <!---
 bikramjethi/bikramjethi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
